@@ -2,11 +2,11 @@
 WebScrapping using Scrapy
 
 
-# pip Install Scrapy
-# Start Scrapy Project :- Scrapy Startproject Project_Name
-# cd project_path
-# make changes in file
-# Scrapy Crawl classname   :- Scrapy Crawl 'quotes' 
+1. pip Install Scrapy
+2. Start Scrapy Project :- Scrapy Startproject Project_Name
+3. cd project_path
+4. make changes in file
+5. Scrapy Crawl classname   :- Scrapy Crawl 'quotes' 
 
 # Setting.py 
 ROBOTSTXT OBEY = FALSE
